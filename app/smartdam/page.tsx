@@ -44,7 +44,7 @@ function page() {
                 <Image
                   className="h-full w-full rounded-lg object-cover"
                   src={
-                    "https://res.cloudinary.com/dgnmqbglc/image/upload/v1717409364/Syarif/smartdam_gpobgy.png"
+                    "https://res.cloudinary.com/dvavtg6tx/image/upload/v1721573924/Screenshot_279_hvuday.png"
                   }
                   alt={"coming-soon"}
                   width={300}

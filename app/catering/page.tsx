@@ -45,7 +45,7 @@ function page() {
               <Image
                 className="h-full w-full rounded-lg object-cover border-2"
                 src={
-                  "https://res.cloudinary.com/dgnmqbglc/image/upload/v1717410478/Syarif/catering3_hl7iit.png"
+                  "https://res.cloudinary.com/dvavtg6tx/image/upload/v1721573912/Screenshot_350_hqmbdi.png"
                 }
                 alt={"coming-soon"}
                 width={300}
@@ -65,7 +65,7 @@ function page() {
               <Image
                 className="h-full w-full border-2 rounded-lg object-cover"
                 src={
-                  "https://res.cloudinary.com/dgnmqbglc/image/upload/v1717410477/Syarif/catering2_s33hv3.png"
+                  "https://res.cloudinary.com/dvavtg6tx/image/upload/v1721574535/Screenshot_351_ht8kpv.png"
                 }
                 alt={"coming-soon"}
                 width={300}
@@ -85,7 +85,7 @@ function page() {
               <Image
                 className="h-full w-full border-2 rounded-lg object-cover"
                 src={
-                  "https://res.cloudinary.com/dgnmqbglc/image/upload/v1717410477/Syarif/catering1_ajtzfh.png"
+                  "https://res.cloudinary.com/dvavtg6tx/image/upload/v1721615334/Screenshot_357_zj8wir.png"
                 }
                 alt={"coming-soon"}
                 width={300}

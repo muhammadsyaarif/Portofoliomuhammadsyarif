@@ -6,7 +6,7 @@ function page() {
   return (
     <>
       <div className="mx-6 sm:mx-[100px] h-auto mt-4 sm:mt-[64px]">
-        <Link href={"/"}>
+        <Link href={"https://note-apps-beryl.vercel.app/"}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="30"
